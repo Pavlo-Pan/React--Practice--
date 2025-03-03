@@ -1,17 +1,20 @@
 const items = [
-
     {
-        href: "/",
+        href: "#",
         text: "Home page"
     },
     {
-        href: "/",
-        text: "Next page"
+        href: "#",
+        text: "Showroom"
     },
     {
-        href: "/",
-        text: "Next Next page"
+        href: "#",
+        text: "Delivery"
     },
-]
+    {
+        href: "#",
+        text: "Contacts"
+    },
+];
 
 export default items;
