@@ -1,0 +1,18 @@
+.nav:global {
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+}
+
+.nav:global(.active) {
+    color: red;
+}
+
+.ul {
+    list-style: none;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}

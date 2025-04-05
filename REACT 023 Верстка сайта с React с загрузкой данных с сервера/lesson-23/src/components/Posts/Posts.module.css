@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.error {
+    color: red;
+}
+
+.next{
+    font-size: 16px;
+    font-weight: 600;
+    background-color: rgba(63, 92, 192, 0.8);
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin-left: auto;
+    border: none;
+    display: block;
+}
