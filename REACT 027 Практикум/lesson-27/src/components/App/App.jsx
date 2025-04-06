@@ -4,6 +4,7 @@ import HomePage from '../../pages/HomePage/HomePage';
 import ProductsPage from '../../pages/ProductsPage/ProductsPage';
 import ProductsFromPartnersPage from '../../pages/ProductsFromPartnersPage/ProductsFromPartnersPage';
 import ContactsPage from '../../pages/ContactsPage/ContactsPage';
+import SchowLocation from '../SchowLocation/SchowLocation';
 
 import Menu from '../Menu/Menu'
 
@@ -17,6 +18,7 @@ function App() {
   return (
     <>
       <Menu />
+      <SchowLocation />
       <Routes>
         <Route path="/" element={<HomePage/>} />
         <Route path="/products" element={<ProductsPage/>} />
