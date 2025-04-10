@@ -1,7 +1,0 @@
-.wrapper {
-    max-width: 740px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: 300px 400px;
-    gap: 40px;
-}
