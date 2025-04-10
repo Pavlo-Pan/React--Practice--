@@ -1,0 +1,10 @@
+export {default as FinanceIcon} from "./FinanceIcon";
+export {default as CarIcon} from "./CarIcon";
+export {default as DesignIcon} from "./DesignIcon";
+export {default as RestaurantBusinessIcon} from "./RestaurantBusinessIcon";
+export {default as MedicineIcon} from "./MedicineIcon";
+export {default as MultimediaIcon} from "./MultimediaIcon";
+export {default as HelpdeskIcon} from "./HelpdeskIcon";
+export {default as ManagementIcon} from "./ManagementIcon";
+export {default as SalesIcon} from "./SalesIcon";
+export {default as MoreIcon} from "./MoreIcon";

@@ -1,0 +1,23 @@
+.wrapper {
+    max-width: 1040px;
+    margin: 50px auto;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+
+.title.active {
+    color: red;
+}
+
+.content {
+    font-size: 16px;
+    transition: 0.6s;
+    height: 0;
+    overflow: hidden;
+}
